@@ -1,1 +1,6 @@
 # portfolio
+
+### Projects
+
+### Education
+school
