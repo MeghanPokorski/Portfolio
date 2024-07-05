@@ -7,6 +7,6 @@ description: >
   <a href="https://www.linkedin.com/in/meghan-pokorski-0764646a/">LinkedIn</a>
   <br>
   <a href="https://github.com/MeghanPokorski">GitHub Profile</a>
-
-show_downloads: false
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
