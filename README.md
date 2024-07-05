@@ -21,7 +21,7 @@ Sentiment analysis of recent financial news to target marketing strategy for pot
 ---
 ### [Loan Default Prediction](https://github.com/MeghanPokorski/Loan-Default-Prediction)
 
-Exploratory data analysis and classification model comparison to predict loan defaults.
+Conducted exploratory data analysis and compared classification models to predict loan defaults, evaluating the performance of Support Vector Machine, Decision Tree, Random Forest, K-Nearest Neighbors, and XGBoost algorithms.
 
 ---
 
