@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
 [Engineering Hours Estimator](https://github.com/MeghanPokorski/Engineering-Hours-Estimator)
 <br>
