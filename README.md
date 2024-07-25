@@ -1,5 +1,12 @@
 ## Projects
 
+### [Market Research and Competitive Analysis](https://github.com/MeghanPokorski/Market-Research-and-Competitive-Analysis)
+
+Evaluated the effectiveness of different marketing strategies using A/B testing data, identified and analyzed key competitors' strategies with a SWOT analysis, and performed data analysis in Excel and Tableau to provide actionable recommendations.
+<br>
+<br>
+<img src="assets/img/AB_results.png?raw=true"/>
+
 ### [Engineering Hours Estimator](https://github.com/MeghanPokorski/Engineering-Hours-Estimator)
 
 A linear regression model created to improve the accuracy of model based development engineering bids.
